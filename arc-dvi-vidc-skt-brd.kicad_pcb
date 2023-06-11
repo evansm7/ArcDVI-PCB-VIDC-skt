@@ -6046,6 +6046,9 @@
   (gr_text "1" (at 51.39 139.77) (layer "F.SilkS") (tstamp b773d99e-5b5e-492a-a437-090fed6c47d6)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (gr_text "Copyright 2023 Matt Evans\n\nCC BY-NC-SA 3.0\n" (at 179.39 171.02) (layer "Cmts.User") (tstamp a720747d-c20f-4ee0-a608-0bebd8f68cf7)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
 
   (segment (start 95.59 123.9075) (end 95.59 123.87) (width 0.4) (layer "F.Cu") (net 1) (tstamp 05a9ad36-ed55-4a58-aa42-77b5e73709a2))
   (segment (start 95.6525 123.9075) (end 95.6525 123.9325) (width 0.4) (layer "F.Cu") (net 1) (tstamp 0ed6a580-4751-4bb8-922d-91967811513d))

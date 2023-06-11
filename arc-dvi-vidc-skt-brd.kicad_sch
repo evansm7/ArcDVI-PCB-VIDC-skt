@@ -3883,7 +3883,7 @@
     (effects (font (size 1.778 1.5113)) (justify left bottom))
     (uuid 8d632d20-1ba8-4e62-9384-229e1b6973dc)
   )
-  (text "(c) 2023 Matt Evans" (at 535.94 424.18 180)
+  (text "Copyright 2023 Matt Evans\n\nCC BY-NC-SA 3.0" (at 535.94 424.18 180)
     (effects (font (size 1.778 1.5113)) (justify left bottom))
     (uuid b73eded7-d562-4ce7-b3be-a25256c32ee4)
   )
